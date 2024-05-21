@@ -5,6 +5,10 @@ function myFirstProgram() {
 
     console.log(age);
     console.log(name);
+
+    let test = "Test";
+
+    console.log(test);
 }
 
 myFirstProgram();
