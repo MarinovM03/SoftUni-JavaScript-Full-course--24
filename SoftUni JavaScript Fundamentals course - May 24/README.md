@@ -1,0 +1,1 @@
+This is my second step studying JavaScript. I am very excited to start the new journey after I got the idea of JavaScript basics in the previous course.
