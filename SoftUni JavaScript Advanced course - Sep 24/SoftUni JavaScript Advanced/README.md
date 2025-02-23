@@ -1,0 +1,1 @@
+JavaScript Advanced folder is for the first part of the whole JavaScript Advanced course.
