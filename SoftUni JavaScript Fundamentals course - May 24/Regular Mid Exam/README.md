@@ -1,1 +1,1 @@
-Regular mid exam.
+This repository contains my solution for the JavaScript Fundamentals Regular Mid Exam as part of the SoftUni curriculum. The exam assesses core JavaScript concepts, including syntax, functions, arrays, objects, DOM manipulation, and problem-solving.
